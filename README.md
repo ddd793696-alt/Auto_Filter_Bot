@@ -1,6 +1,6 @@
 <p align="center">
   <span style="background: linear-gradient(135deg, #FF9933 0%, #FF512F 100%); color: #FFFFFF; font-weight: bold; font-size: 16px; padding: 7px 24px; border-radius: 20px; display: inline-block; box-shadow: 0 4px 12px rgba(255, 81, 47, 0.35); border: 1px solid #FF8008;">
-    🚩 जय श्री राम 🚩
+    🚩HAARIS MODS PRESENTS🚩
   </span>
 </p>
 
